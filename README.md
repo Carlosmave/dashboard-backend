@@ -1,5 +1,7 @@
 # dashboard-backend
 
 ## Run Project
-
-```flask --app api run```
+- Create virtual environment ```python3 -m venv venv```
+- Activate virtual environment
+- Install requirements ```pip install -r requirements.txt```
+- Run app ```flask --app api run```
